@@ -33,7 +33,7 @@
 
 - 🎮 Outside of code, I’m a gamer at heart, always leveling up — whether it’s in-game or in real life.
   
-- My goal? To become a Data Scientist who doesn’t just crunch numbers, but tells stories with data and builds next-gen AI solutions.
+- <img src="https://github.com/Ayush-Mukherjee1105/Ayush-Mukherjee1105/blob/be1acb96b81fadc52b4ba94c7019eebc628fd71e/deaa.gif " width="20" />&nbsp;&nbsp;&nbsp;My goal? To become a Data Scientist who doesn’t just crunch numbers, but tells stories with data and builds next-gen AI solutions.
 
 
  # ⚙️ Tech Stack-
