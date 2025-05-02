@@ -26,14 +26,14 @@
 - 🧠 My heart lies in machine learning, especially in exploring how Generative AI is reshaping creativity, code, and intelligence.
 
 - 🔧 I'm constantly sharpening my skills in Python, JavaScript, MongoDB, SQL, and diving deeper into AI/ML concepts.
-<img align="right" src="https://github.com/Ayush-Mukherjee1105/Ayush-Mukherjee1105/blob/5d4b52e4cdb2abd3dd01f9b6841d1cdc6b6d6ee7/cutu.gif" alt="Omen" width="21%" /><be>
+<img align="right" src="https://github.com/Ayush-Mukherjee1105/Ayush-Mukherjee1105/blob/5d4b52e4cdb2abd3dd01f9b6841d1cdc6b6d6ee7/cutu.gif" alt="Omen" width="18%" /><be>
 
 
 - 🚀 I’ve worked on real-world projects that mix AI models with practical applications, because learning is best done by building.
 
 - 🎮 Outside of code, I’m a gamer at heart, always leveling up — whether it’s in-game or in real life.
   
-- <img src="https://github.com/Ayush-Mukherjee1105/Ayush-Mukherjee1105/blob/be1acb96b81fadc52b4ba94c7019eebc628fd71e/deaa.gif " width="20" />&nbsp;&nbsp;&nbsp;My goal? To become a Data Scientist who doesn’t just crunch numbers, but tells stories with data and builds next-gen AI solutions.
+- <img src="https://github.com/Ayush-Mukherjee1105/Ayush-Mukherjee1105/blob/be1acb96b81fadc52b4ba94c7019eebc628fd71e/deaa.gif " width="28"/>&nbsp;&nbsp;&nbsp;My goal? To become a Data Scientist who doesn’t just crunch numbers, but tells stories with data and builds next-gen AI solutions.
 
 
  # ⚙️ Tech Stack-
