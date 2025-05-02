@@ -64,6 +64,18 @@
  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
+
+## 🤖 GenAI Tools & Frameworks-
+![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFBF00.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-%23FF6F00.svg?style=for-the-badge&logo=python&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7749B0?style=for-the-badge&logo=llama&logoColor=white)
+
+## 🧪 ML & GenAI App Builders-
+![Gradio](https://img.shields.io/badge/Gradio-FF5F00?style=for-the-badge&logo=gradio&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
     
 # 📊 GitHub Stats:
 
